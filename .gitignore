@@ -5,3 +5,4 @@ data/save_files
 web-env
 
 setting.py
+__pycache__
